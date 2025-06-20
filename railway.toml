@@ -1,0 +1,5 @@
+[build]
+builder = "Docker"
+
+[deploy]
+startCommand = "n8n"
